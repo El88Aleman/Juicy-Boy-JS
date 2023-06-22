@@ -1,0 +1,56 @@
+[
+    {
+        "nombre": "Remeron Corazon En El Cielo",
+        "precio": 9000,
+        "img": "images/remeraCorazonCieloAtras.png",
+        "id": 1
+    },
+    {
+        "nombre": "Remeron Area 51",
+        "precio": 9000,
+        "img": "images/remeraArea51Atras.png",
+        "id": 2
+    },
+    {
+        "nombre": "Remeron Mood Angel",
+        "precio": 9000,
+        "img": "images/remeraAngelAtras.png",
+        "id": 3
+    },
+    {
+        "nombre": "Remeron Armando S",
+        "precio": 9000,
+        "img": "images/remeraArmando.png",
+        "id": 4
+    },
+    {
+        "nombre": "Remeron Style Beisbol",
+        "precio": 9000,
+        "img": "images/remeraBeisbol.png",
+        "id": 5
+    },
+    {
+        "nombre": "Buzo Mood Angel Remast",
+        "precio": 13000,
+        "img": "images/buzoAngelAtras.png",
+        "id": 6
+    },
+    {
+        "nombre": "Buzo Underground",
+        "precio": 13000,
+        "img": "images/buzoBosqueFlashAtras.png",
+        "id": 7
+    },
+    {
+        "nombre": "Buzos Urban Pinter",
+        "precio": 13000,
+        "img": "images/buzoLilaFlash.png",
+        "id": 8
+    },
+    {
+        "nombre": "Buzo Underground Grafiti",
+        "precio": 13000,
+        "img": "images/buzoGrafiti.png",
+        "id": 9
+    }
+]

@@ -1,0 +1,51 @@
+.imgProductos {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-top: 1rem;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+}
+
+.colorBoton {
+    color: white;
+    background-color: #85bb65;
+}
+
+.colorBoton:hover {
+    background-color: violet;
+    color: white;
+}
+
+.logo {
+    height: 400px;
+    width: 350px;
+}
+
+.toastify {
+    color: rgb(253, 253, 253);
+    font-family: "shlop";
+    border-radius: 2rem;
+    text-transform: uppercase;
+    font-size: 1rem;
+}
+
+.titulo {
+    font-family: "shlop";
+    font-size: 30px;
+
+}
+
+.texto {
+    font-family: "shlop";
+    font-size: 25px;
+}
+
+@font-face {
+    font-family: "shlop";
+    src: url(tipografias/shloprg.otf);
+}
